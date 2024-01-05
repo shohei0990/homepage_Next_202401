@@ -1,6 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## ホームページ作成
+・Next.js Typescript によるホームページの作成<br>
+<br>
+
+## 参考サイト
+https://qiita.com/minimumskills/items/d5c0e2d0ced5766b295b
+
+<br>
+<br>
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
